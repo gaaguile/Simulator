@@ -26,7 +26,7 @@ const STOCH_K_PERIOD = 14;
 const STOCH_K_SMOOTH = 3;
 const STOCH_D_SMOOTH = 3;
 const OVERSOLD_LEVEL = 20;
-const TRANCHE_USD = 1000;
+const TRANCHE_USD = 2000;
 
 interface DailyBar {
   date: Date;
