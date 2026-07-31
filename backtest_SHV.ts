@@ -20,7 +20,7 @@
  */
 
 const CASH_TICKER = "SHV";
-const RISK_TICKERS = ["DIA", "IVV", "IYW"];
+const RISK_TICKERS = ["DIA", "IVV", "IYW", "IYF"];
 const START_DATE = "2009-11-01"; // lookback so first weekly stoch(14,3,3) is valid by 2010
 const REPORT_FROM = "2010-01-01";
 const STOCH_K_PERIOD = 14;
